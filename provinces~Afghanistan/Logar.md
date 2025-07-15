@@ -40,11 +40,18 @@ markerFolder: ./Logar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar|Logar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.public|Logar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.internal|Logar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.protect|Logar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.private|Logar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.personal|Logar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Logar.secret|Logar.secret]] 
+
+### #is_/same_as :: [Logar](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.md) 
+
+### #is_/same_as :: [Logar.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.public.md) 
+
+### #is_/same_as :: [Logar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.internal.md) 
+
+### #is_/same_as :: [Logar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.protect.md) 
+
+### #is_/same_as :: [Logar.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.private.md) 
+
+### #is_/same_as :: [Logar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.personal.md) 
+
+### #is_/same_as :: [Logar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Logar.secret.md)
 

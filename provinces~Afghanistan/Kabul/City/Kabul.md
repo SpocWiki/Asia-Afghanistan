@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul|Kabul]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.public|Kabul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.internal|Kabul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.protect|Kabul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.private|Kabul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.personal|Kabul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/City/Kabul.secret|Kabul.secret]] 
+
+### #is_/same_as :: [Kabul](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.md) 
+
+### #is_/same_as :: [Kabul.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.public.md) 
+
+### #is_/same_as :: [Kabul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.internal.md) 
+
+### #is_/same_as :: [Kabul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.protect.md) 
+
+### #is_/same_as :: [Kabul.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.private.md) 
+
+### #is_/same_as :: [Kabul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.personal.md) 
+
+### #is_/same_as :: [Kabul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.secret.md)
+

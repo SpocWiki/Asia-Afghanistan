@@ -40,11 +40,18 @@ markerFolder: ./Paktika/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika|Paktika]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.public|Paktika.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.internal|Paktika.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.protect|Paktika.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.private|Paktika.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.personal|Paktika.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Paktika.secret|Paktika.secret]] 
+
+### #is_/same_as :: [Paktika](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.md) 
+
+### #is_/same_as :: [Paktika.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.public.md) 
+
+### #is_/same_as :: [Paktika.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.internal.md) 
+
+### #is_/same_as :: [Paktika.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.protect.md) 
+
+### #is_/same_as :: [Paktika.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.private.md) 
+
+### #is_/same_as :: [Paktika.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.personal.md) 
+
+### #is_/same_as :: [Paktika.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Paktika.secret.md)
 

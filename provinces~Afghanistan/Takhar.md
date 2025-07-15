@@ -40,11 +40,18 @@ markerFolder: ./Takhar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar|Takhar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.public|Takhar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.internal|Takhar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.protect|Takhar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.private|Takhar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.personal|Takhar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Takhar.secret|Takhar.secret]] 
+
+### #is_/same_as :: [Takhar](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.md) 
+
+### #is_/same_as :: [Takhar.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.public.md) 
+
+### #is_/same_as :: [Takhar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.internal.md) 
+
+### #is_/same_as :: [Takhar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.protect.md) 
+
+### #is_/same_as :: [Takhar.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.private.md) 
+
+### #is_/same_as :: [Takhar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.personal.md) 
+
+### #is_/same_as :: [Takhar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Takhar.secret.md)
 

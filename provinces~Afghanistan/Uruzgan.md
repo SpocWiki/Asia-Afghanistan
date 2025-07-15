@@ -40,11 +40,18 @@ markerFolder: ./Uruzgan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan|Uruzgan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.public|Uruzgan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.internal|Uruzgan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.protect|Uruzgan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.private|Uruzgan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.personal|Uruzgan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Uruzgan.secret|Uruzgan.secret]] 
+
+### #is_/same_as :: [Uruzgan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.md) 
+
+### #is_/same_as :: [Uruzgan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.public.md) 
+
+### #is_/same_as :: [Uruzgan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.internal.md) 
+
+### #is_/same_as :: [Uruzgan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.protect.md) 
+
+### #is_/same_as :: [Uruzgan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.private.md) 
+
+### #is_/same_as :: [Uruzgan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.personal.md) 
+
+### #is_/same_as :: [Uruzgan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Uruzgan.secret.md)
 

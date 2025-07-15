@@ -40,11 +40,18 @@ markerFolder: ./Nuristan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan|Nuristan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.public|Nuristan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.internal|Nuristan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.protect|Nuristan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.private|Nuristan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.personal|Nuristan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nuristan.secret|Nuristan.secret]] 
+
+### #is_/same_as :: [Nuristan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.md) 
+
+### #is_/same_as :: [Nuristan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.public.md) 
+
+### #is_/same_as :: [Nuristan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.internal.md) 
+
+### #is_/same_as :: [Nuristan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.protect.md) 
+
+### #is_/same_as :: [Nuristan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.private.md) 
+
+### #is_/same_as :: [Nuristan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.personal.md) 
+
+### #is_/same_as :: [Nuristan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nuristan.secret.md)
 

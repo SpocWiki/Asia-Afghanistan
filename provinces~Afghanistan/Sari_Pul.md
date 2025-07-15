@@ -40,11 +40,18 @@ markerFolder: ./Sari_Pul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul|Sari_Pul]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.public|Sari_Pul.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.internal|Sari_Pul.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.protect|Sari_Pul.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.private|Sari_Pul.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.personal|Sari_Pul.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Sari_Pul.secret|Sari_Pul.secret]] 
+
+### #is_/same_as :: [Sari_Pul](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.md) 
+
+### #is_/same_as :: [Sari_Pul.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.public.md) 
+
+### #is_/same_as :: [Sari_Pul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.internal.md) 
+
+### #is_/same_as :: [Sari_Pul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.protect.md) 
+
+### #is_/same_as :: [Sari_Pul.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.private.md) 
+
+### #is_/same_as :: [Sari_Pul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.personal.md) 
+
+### #is_/same_as :: [Sari_Pul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Sari_Pul.secret.md)
 

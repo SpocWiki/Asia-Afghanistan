@@ -40,11 +40,18 @@ markerFolder: ./Laghman/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman|Laghman]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.public|Laghman.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.internal|Laghman.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.protect|Laghman.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.private|Laghman.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.personal|Laghman.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Laghman.secret|Laghman.secret]] 
+
+### #is_/same_as :: [Laghman](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.md) 
+
+### #is_/same_as :: [Laghman.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.public.md) 
+
+### #is_/same_as :: [Laghman.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.internal.md) 
+
+### #is_/same_as :: [Laghman.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.protect.md) 
+
+### #is_/same_as :: [Laghman.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.private.md) 
+
+### #is_/same_as :: [Laghman.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.personal.md) 
+
+### #is_/same_as :: [Laghman.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Laghman.secret.md)
 

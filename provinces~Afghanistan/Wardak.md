@@ -40,11 +40,18 @@ markerFolder: ./Wardak/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak|Wardak]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.public|Wardak.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.internal|Wardak.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.protect|Wardak.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.private|Wardak.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.personal|Wardak.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Wardak.secret|Wardak.secret]] 
+
+### #is_/same_as :: [Wardak](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.md) 
+
+### #is_/same_as :: [Wardak.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.public.md) 
+
+### #is_/same_as :: [Wardak.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.internal.md) 
+
+### #is_/same_as :: [Wardak.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.protect.md) 
+
+### #is_/same_as :: [Wardak.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.private.md) 
+
+### #is_/same_as :: [Wardak.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.personal.md) 
+
+### #is_/same_as :: [Wardak.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Wardak.secret.md)
 

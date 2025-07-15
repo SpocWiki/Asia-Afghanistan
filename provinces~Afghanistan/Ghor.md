@@ -40,11 +40,18 @@ markerFolder: ./Ghor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor|Ghor]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.public|Ghor.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.internal|Ghor.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.protect|Ghor.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.private|Ghor.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.personal|Ghor.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Ghor.secret|Ghor.secret]] 
+
+### #is_/same_as :: [Ghor](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.md) 
+
+### #is_/same_as :: [Ghor.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.public.md) 
+
+### #is_/same_as :: [Ghor.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.internal.md) 
+
+### #is_/same_as :: [Ghor.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.protect.md) 
+
+### #is_/same_as :: [Ghor.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.private.md) 
+
+### #is_/same_as :: [Ghor.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.personal.md) 
+
+### #is_/same_as :: [Ghor.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghor.secret.md)
 

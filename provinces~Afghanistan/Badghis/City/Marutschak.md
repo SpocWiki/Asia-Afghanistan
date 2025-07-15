@@ -1,4 +1,4 @@
-﻿---
+---
 location: [35.82,63.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Russia/City/Marutschak|Marutschak]] 
-- [[../../../../../../_public/geo/Continent/Europe/Russia/City/Marutschak.public|Marutschak.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Russia/City/Marutschak.internal|Marutschak.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Russia/City/Marutschak.protect|Marutschak.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Russia/City/Marutschak.private|Marutschak.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Russia/City/Marutschak.personal|Marutschak.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Russia/City/Marutschak.secret|Marutschak.secret]] 
+
+### #is_/same_as :: [Marutschak](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.md) 
+
+### #is_/same_as :: [Marutschak.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.public.md) 
+
+### #is_/same_as :: [Marutschak.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.internal.md) 
+
+### #is_/same_as :: [Marutschak.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.protect.md) 
+
+### #is_/same_as :: [Marutschak.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.private.md) 
+
+### #is_/same_as :: [Marutschak.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.personal.md) 
+
+### #is_/same_as :: [Marutschak.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.secret.md)
+

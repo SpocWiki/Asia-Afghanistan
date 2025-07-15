@@ -40,11 +40,18 @@ markerFolder: ./Hirat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat|Hirat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.public|Hirat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.internal|Hirat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.protect|Hirat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.private|Hirat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.personal|Hirat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Hirat.secret|Hirat.secret]] 
+
+### #is_/same_as :: [Hirat](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.md) 
+
+### #is_/same_as :: [Hirat.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.public.md) 
+
+### #is_/same_as :: [Hirat.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.internal.md) 
+
+### #is_/same_as :: [Hirat.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.protect.md) 
+
+### #is_/same_as :: [Hirat.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.private.md) 
+
+### #is_/same_as :: [Hirat.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.personal.md) 
+
+### #is_/same_as :: [Hirat.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hirat.secret.md)
 

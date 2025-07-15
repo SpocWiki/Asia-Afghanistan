@@ -40,11 +40,18 @@ markerFolder: ./Kandahar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar|Kandahar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.public|Kandahar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.internal|Kandahar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.protect|Kandahar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.private|Kandahar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.personal|Kandahar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Kandahar.secret|Kandahar.secret]] 
+
+### #is_/same_as :: [Kandahar](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.md) 
+
+### #is_/same_as :: [Kandahar.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.public.md) 
+
+### #is_/same_as :: [Kandahar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.internal.md) 
+
+### #is_/same_as :: [Kandahar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.protect.md) 
+
+### #is_/same_as :: [Kandahar.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.private.md) 
+
+### #is_/same_as :: [Kandahar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.personal.md) 
+
+### #is_/same_as :: [Kandahar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kandahar.secret.md)
 

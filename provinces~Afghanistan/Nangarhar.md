@@ -40,11 +40,18 @@ markerFolder: ./Nangarhar/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar|Nangarhar]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.public|Nangarhar.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.internal|Nangarhar.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.protect|Nangarhar.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.private|Nangarhar.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.personal|Nangarhar.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Nangarhar.secret|Nangarhar.secret]] 
+
+### #is_/same_as :: [Nangarhar](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.md) 
+
+### #is_/same_as :: [Nangarhar.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.public.md) 
+
+### #is_/same_as :: [Nangarhar.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.internal.md) 
+
+### #is_/same_as :: [Nangarhar.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.protect.md) 
+
+### #is_/same_as :: [Nangarhar.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.private.md) 
+
+### #is_/same_as :: [Nangarhar.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.personal.md) 
+
+### #is_/same_as :: [Nangarhar.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nangarhar.secret.md)
 

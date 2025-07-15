@@ -40,11 +40,18 @@ markerFolder: ./Badghis/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis|Badghis]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.public|Badghis.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.internal|Badghis.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.protect|Badghis.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.private|Badghis.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.personal|Badghis.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~Central/Afghanistan/Counties/Badghis.secret|Badghis.secret]] 
+
+### #is_/same_as :: [Badghis](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.md) 
+
+### #is_/same_as :: [Badghis.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.public.md) 
+
+### #is_/same_as :: [Badghis.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.internal.md) 
+
+### #is_/same_as :: [Badghis.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.protect.md) 
+
+### #is_/same_as :: [Badghis.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.private.md) 
+
+### #is_/same_as :: [Badghis.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.personal.md) 
+
+### #is_/same_as :: [Badghis.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis.secret.md)
 
