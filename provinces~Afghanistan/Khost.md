@@ -40,17 +40,17 @@ markerFolder: ./Khost/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khost](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost|Khost]] 
 
-### #is_/same_as :: [Khost.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.public|Khost.public]] 
 
-### #is_/same_as :: [Khost.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.internal|Khost.internal]] 
 
-### #is_/same_as :: [Khost.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.protect|Khost.protect]] 
 
-### #is_/same_as :: [Khost.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.private|Khost.private]] 
 
-### #is_/same_as :: [Khost.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.personal|Khost.personal]] 
 
-### #is_/same_as :: [Khost.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Khost.secret|Khost.secret]] 
 

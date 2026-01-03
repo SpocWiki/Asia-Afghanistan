@@ -36,3 +36,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shuja%20Shah%20Durrani
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Afghanistan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan|History_of_Afghanistan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.public|History_of_Afghanistan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.internal|History_of_Afghanistan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.protect|History_of_Afghanistan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.private|History_of_Afghanistan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.personal|History_of_Afghanistan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/History_of_Afghanistan.secret|History_of_Afghanistan.secret]] 
+

@@ -40,17 +40,17 @@ markerFolder: ./Kunduz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kunduz](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz|Kunduz]] 
 
-### #is_/same_as :: [Kunduz.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.public|Kunduz.public]] 
 
-### #is_/same_as :: [Kunduz.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.internal|Kunduz.internal]] 
 
-### #is_/same_as :: [Kunduz.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.protect|Kunduz.protect]] 
 
-### #is_/same_as :: [Kunduz.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.private|Kunduz.private]] 
 
-### #is_/same_as :: [Kunduz.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.personal|Kunduz.personal]] 
 
-### #is_/same_as :: [Kunduz.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kunduz.secret|Kunduz.secret]] 
 

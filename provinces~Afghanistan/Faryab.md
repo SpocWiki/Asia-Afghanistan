@@ -40,17 +40,17 @@ markerFolder: ./Faryab/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faryab](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab|Faryab]] 
 
-### #is_/same_as :: [Faryab.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.public|Faryab.public]] 
 
-### #is_/same_as :: [Faryab.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.internal|Faryab.internal]] 
 
-### #is_/same_as :: [Faryab.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.protect|Faryab.protect]] 
 
-### #is_/same_as :: [Faryab.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.private|Faryab.private]] 
 
-### #is_/same_as :: [Faryab.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.personal|Faryab.personal]] 
 
-### #is_/same_as :: [Faryab.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Faryab.secret|Faryab.secret]] 
 

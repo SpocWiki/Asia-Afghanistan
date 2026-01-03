@@ -40,17 +40,17 @@ markerFolder: ./Hilmand/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hilmand](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand|Hilmand]] 
 
-### #is_/same_as :: [Hilmand.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.public|Hilmand.public]] 
 
-### #is_/same_as :: [Hilmand.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.internal|Hilmand.internal]] 
 
-### #is_/same_as :: [Hilmand.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.protect|Hilmand.protect]] 
 
-### #is_/same_as :: [Hilmand.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.private|Hilmand.private]] 
 
-### #is_/same_as :: [Hilmand.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.personal|Hilmand.personal]] 
 
-### #is_/same_as :: [Hilmand.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Hilmand.secret|Hilmand.secret]] 
 

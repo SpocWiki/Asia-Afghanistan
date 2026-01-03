@@ -40,17 +40,17 @@ markerFolder: ./Jawzjan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jawzjan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan|Jawzjan]] 
 
-### #is_/same_as :: [Jawzjan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.public|Jawzjan.public]] 
 
-### #is_/same_as :: [Jawzjan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.internal|Jawzjan.internal]] 
 
-### #is_/same_as :: [Jawzjan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.protect|Jawzjan.protect]] 
 
-### #is_/same_as :: [Jawzjan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.private|Jawzjan.private]] 
 
-### #is_/same_as :: [Jawzjan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.personal|Jawzjan.personal]] 
 
-### #is_/same_as :: [Jawzjan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Jawzjan.secret|Jawzjan.secret]] 
 

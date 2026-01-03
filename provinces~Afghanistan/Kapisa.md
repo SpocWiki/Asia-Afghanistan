@@ -40,17 +40,17 @@ markerFolder: ./Kapisa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kapisa](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa|Kapisa]] 
 
-### #is_/same_as :: [Kapisa.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.public|Kapisa.public]] 
 
-### #is_/same_as :: [Kapisa.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.internal|Kapisa.internal]] 
 
-### #is_/same_as :: [Kapisa.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.protect|Kapisa.protect]] 
 
-### #is_/same_as :: [Kapisa.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.private|Kapisa.private]] 
 
-### #is_/same_as :: [Kapisa.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.personal|Kapisa.personal]] 
 
-### #is_/same_as :: [Kapisa.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kapisa.secret|Kapisa.secret]] 
 

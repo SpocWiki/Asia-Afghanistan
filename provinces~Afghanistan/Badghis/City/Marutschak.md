@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marutschak](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak|Marutschak]] 
 
-### #is_/same_as :: [Marutschak.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.public|Marutschak.public]] 
 
-### #is_/same_as :: [Marutschak.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.internal|Marutschak.internal]] 
 
-### #is_/same_as :: [Marutschak.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.protect|Marutschak.protect]] 
 
-### #is_/same_as :: [Marutschak.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.private|Marutschak.private]] 
 
-### #is_/same_as :: [Marutschak.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.personal|Marutschak.personal]] 
 
-### #is_/same_as :: [Marutschak.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Badghis/City/Marutschak.secret|Marutschak.secret]] 
 

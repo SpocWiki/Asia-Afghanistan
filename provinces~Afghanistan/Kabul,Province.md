@@ -40,17 +40,17 @@ markerFolder: ./Kabul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kabul](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province|Kabul,Province]] 
 
-### #is_/same_as :: [Kabul.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.public|Kabul,Province.public]] 
 
-### #is_/same_as :: [Kabul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.internal|Kabul,Province.internal]] 
 
-### #is_/same_as :: [Kabul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.protect|Kabul,Province.protect]] 
 
-### #is_/same_as :: [Kabul.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.private|Kabul,Province.private]] 
 
-### #is_/same_as :: [Kabul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.personal|Kabul,Province.personal]] 
 
-### #is_/same_as :: [Kabul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province.secret|Kabul,Province.secret]] 
 

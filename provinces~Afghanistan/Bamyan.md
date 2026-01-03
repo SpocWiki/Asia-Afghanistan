@@ -40,17 +40,17 @@ markerFolder: ./Bamyan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bamyan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan|Bamyan]] 
 
-### #is_/same_as :: [Bamyan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.public|Bamyan.public]] 
 
-### #is_/same_as :: [Bamyan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.internal|Bamyan.internal]] 
 
-### #is_/same_as :: [Bamyan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.protect|Bamyan.protect]] 
 
-### #is_/same_as :: [Bamyan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.private|Bamyan.private]] 
 
-### #is_/same_as :: [Bamyan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.personal|Bamyan.personal]] 
 
-### #is_/same_as :: [Bamyan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Bamyan.secret|Bamyan.secret]] 
 

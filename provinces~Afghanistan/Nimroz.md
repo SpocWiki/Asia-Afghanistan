@@ -40,17 +40,17 @@ markerFolder: ./Nimroz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nimroz](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz|Nimroz]] 
 
-### #is_/same_as :: [Nimroz.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.public|Nimroz.public]] 
 
-### #is_/same_as :: [Nimroz.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.internal|Nimroz.internal]] 
 
-### #is_/same_as :: [Nimroz.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.protect|Nimroz.protect]] 
 
-### #is_/same_as :: [Nimroz.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.private|Nimroz.private]] 
 
-### #is_/same_as :: [Nimroz.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.personal|Nimroz.personal]] 
 
-### #is_/same_as :: [Nimroz.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Nimroz.secret|Nimroz.secret]] 
 

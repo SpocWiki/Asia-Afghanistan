@@ -71,20 +71,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Kabul)  
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kabul](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City|Kabul,City]] 
 
-### #is_/same_as :: [Kabul.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.public|Kabul,City.public]] 
 
-### #is_/same_as :: [Kabul.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.internal|Kabul,City.internal]] 
 
-### #is_/same_as :: [Kabul.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.protect|Kabul,City.protect]] 
 
-### #is_/same_as :: [Kabul.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.private|Kabul,City.private]] 
 
-### #is_/same_as :: [Kabul.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.personal|Kabul,City.personal]] 
 
-### #is_/same_as :: [Kabul.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul/City/Kabul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Kabul,Province/counties~Kabul/Kabul,City.secret|Kabul,City.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Baghlan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baghlan](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan|Baghlan]] 
 
-### #is_/same_as :: [Baghlan.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.public|Baghlan.public]] 
 
-### #is_/same_as :: [Baghlan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.internal|Baghlan.internal]] 
 
-### #is_/same_as :: [Baghlan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.protect|Baghlan.protect]] 
 
-### #is_/same_as :: [Baghlan.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.private|Baghlan.private]] 
 
-### #is_/same_as :: [Baghlan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.personal|Baghlan.personal]] 
 
-### #is_/same_as :: [Baghlan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Baghlan.secret|Baghlan.secret]] 
 

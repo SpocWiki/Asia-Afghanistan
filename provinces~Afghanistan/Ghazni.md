@@ -40,17 +40,17 @@ markerFolder: ./Ghazni/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ghazni](/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni|Ghazni]] 
 
-### #is_/same_as :: [Ghazni.public](/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.public|Ghazni.public]] 
 
-### #is_/same_as :: [Ghazni.internal](/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.internal|Ghazni.internal]] 
 
-### #is_/same_as :: [Ghazni.protect](/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.protect|Ghazni.protect]] 
 
-### #is_/same_as :: [Ghazni.private](/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.private|Ghazni.private]] 
 
-### #is_/same_as :: [Ghazni.personal](/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.personal|Ghazni.personal]] 
 
-### #is_/same_as :: [Ghazni.secret](/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Afghanistan/provinces~Afghanistan/Ghazni.secret|Ghazni.secret]] 
 
